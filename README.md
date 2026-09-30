@@ -17,6 +17,8 @@ Mapper should pickup your controller for mapping - connect any controller and fo
 
 Launcher - use either controller or keyboard to navigate and launch the game you want to play, the launcher 	comes with the option of importing different controller mappings which can be generated via the controller 	mapper.
 
+If downloading on Steam Deck, make sure peazip in installed from discover to extract the folder otherwise the folder inside the zip folder will be extracted as singles files outside the folder with the exe - will fix then I can
+
 ** This is still in testing mainly for the controller mapping and the importing for different controllers, will add Snake Eater Delta at some point
 
 *** If you come across any issues, let me know so I can get it looked at. Or any ideas that can be added or changed

@@ -20,3 +20,5 @@ Launcher - use either controller or keyboard to navigate and launch the game you
 ** This is still in testing mainly for the controller mapping and the importing for different controllers, will add Snake Eater Delta at some point
 
 *** If you come across any issues, let me know so I can get it looked at. Or any ideas that can be added or changed
+
+* Please report any issues you may come across so I can get them address

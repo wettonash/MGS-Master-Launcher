@@ -21,4 +21,4 @@ Launcher - use either controller or keyboard to navigate and launch the game you
 
 *** If you come across any issues, let me know so I can get it looked at. Or any ideas that can be added or changed
 
-* Please report any issues you may come across so I can get them address
+* Please report any issues you may come across so I can get them address, with regarding to importing controller log - please attach the created mapper file
